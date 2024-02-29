@@ -1,0 +1,23 @@
+﻿Library,Species,Common.name,Order,Genus,Num.indv.~,Sample.type,Body.mass,Library.reads,RPS13,Amnoonviridae,Arenaviridae,Astroviridae,Peribunyaviridae,Coronaviridae,Filoviridae,Flaviviridae,Hantaviridae,Hepadnaviridae,Hepeviridae,Iridoviridae,Orthomyxoviridae,Nackednaviridae,Parvoviridae,Picornaviridae,Poxviridae,Spinareoviridae,Sedoreoviridae,Reovirales,Rhabdoviridae,Totiviridae,Total.virome
+CHW_L,Chionobathyscus dewitti,Icefish spp.,Perciformes,Chionobathyscus,21,Gill tissue,Low,86222956,79.94077586,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.220358949,0,0,0,0,0,0,6.127486513
+CHW_H,Chionobathyscus dewitti,Icefish spp.,Perciformes,Chionobathyscus,19,Gill tissue,High,76624174,65.5666448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.02650315
+QMC_L,Macrourus caml,Caml grenadier,"	Gadiformes",Macrourus,23,Gill tissue,Low,96019607,42.55932853,0,0,0.041658158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.050651499
+QMC_H,Macrourus caml,Caml grenadier,"	Gadiformes",Macrourus,18,Gill tissue,High,99852912,56.32975431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.454839895,0,0,4.923942529
+WGR_L,Macrourus whitsoni,Whitson's grenadier,"	Gadiformes",Macrourus,18,Gill tissue,Low,92928359,42.37274867,0,0,0.021521955,0,0,0,0,0,0,0,0,0,0,0,0.204458577,0,0,0,0,0,0,46.35581696
+WGR_H,Macrourus whitsoni,Whitson's grenadier,"	Gadiformes",Macrourus,20,Gill tissue,High,89127884,70.07862994,0,0,0,0,1.481017994,0,0,0.190737166,0,0,0.157077666,0,0,0,0,0,0,0,0,0,0,4.513290139
+ANT_L,Antimora rostrata,Blue antimora,"	Gadiformes",Antimora,12,Gill tissue,Low,89220713,76.56910341,0,0,0,0,0,0,0,0,0,0,0,0.425910069,0,0.936441743,0,0,0,0,0,0,0,1.541682367
+ANT_H,Antimora rostrata,Blue antimora,"	Gadiformes",Antimora,11,Gill tissue,High,61877725,77.31069622,0,0,0,0,0.14544814,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.355539897
+TLO_L,Trematomus loennbergii,Scaly rockcod,Perciformes,Trematomus,10,Gill tissue,Low,76752719,31.55705793,0,221.861847,0,0,0,0,0,0,0.20846167,0,0,0,0,0,0,0,0,0,0,0,0,235.9911184
+TLO_H,Trematomus loennbergii,Scaly rockcod,Perciformes,Trematomus,7,Gill tissue,High,83378864,49.13715303,0,0,0,0.179901707,0,0.095947577,0.179901707,0,0,0,0,0,4.245680296,0,0.527711675,0,0,0,0,0.131927919,0,23.36695304
+BVK_L,Pogonophryne barsukovi,Stubbeard plunderfish,Perciformes,Pogonophryne,7,Gill tissue,Low,88146328,63.32708494,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.4416184
+BVK_H,Pogonophryne barsukovi,Stubbeard plunderfish,Perciformes,Pogonophryne,7,Gill tissue,High,80691052,49.75768565,0,0,0,0,0,0,0,5.514861797,0,0,0,0,0,0,0,0,0,0,0,0,0.260251905,614.9442692
+TRD_L,Trematomus lepidorhinus,Slender scalyhead,Perciformes,Trematomus,11,Gill tissue,Low,98275341,40.56979054,0,8.780737784,0,0.203509851,0,0.061052955,0,0,0.305264776,0,0,0,2.098898848,0,0,0,0.030526478,0,0,0,0,15.16931903
+TRD_H,Trematomus lepidorhinus,Slender scalyhead,Perciformes,Trematomus,8,Gill tissue,High,71289300,47.57025248,2.168067298,0,0,0.028054701,0,0,0,0,0,0,0,0,21.20837208,0,0.659285475,0,0,0,0,0,0,29.97981464
+PIM_L,Pogonophryne immaculata,Spot-less plunderfish,Perciformes,Pogonophryne,9,Gill tissue,Low,64532831,55.28968658,0.232439826,0,0,0,0,0,0,0,0,0,315.531795,0,0,0,0,7.599232707,10.55369785,0,0,0,0,368.8234288
+PIM_H,Pogonophryne immaculata,Spot-less plunderfish,Perciformes,Pogonophryne,9,Gill tissue,High,79191675,58.08678753,7.071450377,0,0.02525518,0,0,0,0,0,0,0,0,0,0.08839313,0,0,0,0.517731188,0,0,0,0.08839313,45.33658367
+LVD_L,Zoarcidae,Eelpouts nei,Scorpaeniformes,*Zoarcidae,5,Gill tissue,Low,98030242,3.570326798,0,0,0,0,0,0,0,0,0,5.884918656,0,0.19381774,0,0,0,0,0,0,0,0.030602801,0,13105.98948
+LVD_H,Zoarcidae,Eelpouts nei,Scorpaeniformes,*Zoarcidae,4,Gill tissue,High,104364990,9.631774027,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121400864,0,56.83745095
+SZT_L,Pogonophryne scotti,Saddleback plunderfish,Perciformes,Pogonophryne,5,Gill tissue,Low,88872433,47.78905963,0,0,0,0,0,0,0,0,0,0.033756249,0,0,0,0,0,0,0,0,0,0,0,24.48374515
+SZT_H,Pogonophryne scotti,Saddleback plunderfish,Perciformes,Pogonophryne,5,Gill tissue,High,104564154,54.31593699,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17.34791447
+MRL_L,Muraenolepis spp.,Moray cods nei,"	Gadiformes",Muraenolepis,11,Gill tissue,Low,118639981,65.73062415,4.05E-01,0,3.435098325,0,0,0,0,0,0,0,0,0,0,0,0.354012194,2.915543286,0,0.337154471,0,0,0,26.95027404
+MRL_H,Muraenolepis spp.,Moray cods nei,"	Gadiformes",Muraenolepis,8,Gill tissue,High,83033559,39.7688602,0,7.621858049,2.339174694,0,0.03612997,0,0,0,0,0,0,0,0,0,0.313126407,0,0,0.228823144,0,0.120433234,0,27.63087633

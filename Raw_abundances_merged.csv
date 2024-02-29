@@ -1,0 +1,12 @@
+﻿Library,Species,Common.name,Order,Genus,Num.indv.~,Sample.type,Body.mass,Library.reads,RPS13,Amnoonviridae,Arenaviridae,Astroviridae,Peribunyaviridae,Coronaviridae,Filoviridae,Flaviviridae,Hantaviridae,Hepadnaviridae,Hepeviridae,Iridoviridae,Orthomyxoviridae,Nackednaviridae,Parvoviridae,Picornaviridae,Poxviridae,Spinareoviridae,Sedoreoviridae,Reovirales,Rhabdoviridae,Totiviridae,Total.virome
+CHW,Chionobathyscus dewitti,Icefish spp.,Perciformes,Chionobathyscus,,Gill tissue,,162847130,11917,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,1066.73
+QMC,Macrourus caml,Caml grenadier,"	Gadiformes",Macrourus,,Gill tissue,,195872519,9712,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,145.27,0,0,1360.71
+WGR,Macrourus whitsoni,Whitson's grenadier,"	Gadiformes",Macrourus,,Gill tissue,,182056243,10184,0,0,2,0,132,0,0,17,0,0,14,0,0,0,19,0,0,0,0,0,0,4710.03
+ANT,Antimora rostrata,Blue antimora,"	Gadiformes",Antimora,,Gill tissue,,151098438,11616,0,0,0,0,9,0,0,0,0,0,0,38,0,83.55,0,0,0,0,0,0,0,159.55
+TLO,Trematomus loennbergii,Scaly rockcod,Perciformes,Trematomus,,Gill tissue,,160131583,6519,0,17028.5,0,15,0,8,15,0,16,0,0,0,354,0,44,0,0,0,0,11,0,20061.27
+BVK,Pogonophryne barsukovi,Stubbeard plunderfish,Perciformes,Pogonophryne,,Gill tissue,,168837380,9597,0,0,0,0,0,0,0,445,0,0,0,0,0,0,0,0,0,0,0,0,21,55829.67
+TRD,Trematomus lepidorhinus,Slender scalyhead,Perciformes,Trematomus,,Gill tissue,,169564641,7378,155,862.93,0,22,0,6,0,0,30,0,0,0,1718.2,0,47,0,3,0,0,0,0,3628.01
+PIM,Pogonophryne immaculata,Spot-less plunderfish,Perciformes,Pogonophryne,,Gill tissue,,143724506,8168,575,0,2,0,0,0,0,0,0,0,20362.16,0,7,0,0,490.4,722.06,0,0,0,7,27391.5
+LVD,Zoarcidae,Eelpouts nei,Scorpaeniformes,*Zoarcidae,,Gill tissue,,202395232,1355,0,0,0,0,0,0,0,0,0,576.9,0,19,0,0,0,0,0,0,0,15.67,0,1290715.16
+SZT,Pogonophryne scotti,Saddleback plunderfish,Perciformes,Pogonophryne,,Gill tissue,,193436587,9927,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3989.9
+MRL,Muraenolepis spp.,Moray cods nei,"	Gadiformes",Muraenolepis,,Gill tissue,,201673540,11100,48,632.87,601.77,0,3,0,0,0,0,0,0,0,0,0,68,345.9,0,59,0,10,0,5491.67
