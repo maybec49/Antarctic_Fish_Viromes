@@ -6,7 +6,9 @@ Supplementary data and code associated with:
 
 <b>Antarctic_Fish_Extended_Virome_Data.xlsx</b>
 Virus_polymerases: sequences, lengths, and annotations for RdRps and DdDps identified in this study.
+
 Virus_non_polymerases: non-polymerase segments found for viruses identified in this study.
+
 TSA_mined_viruses: sequences and annotations for fish arenaviruses found in the TSA.
 
 <b>PIM_L_Iridovirus_Sequences.xlsx</b>
@@ -31,7 +33,11 @@ Protein structure file for C. artedi nucleoprotein.
 R script containing code for figures and analysis in the study.
 
 Network_abundances.csv: merged abundances for network figure.
+
 Raw_abundances_merged.csv: merged raw abundances.
+
 Raw_abundances.csv: full raw abundances.
+
 RPM_abundances.csv: full standardised abundances in RPM.
+
 Standardised_abundances.csv: full standardised abundances.
